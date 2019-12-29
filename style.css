@@ -1,0 +1,12 @@
+/*
+Theme Name: IRANOMAG Child
+Theme URI: http://www.iranoweb.ir
+Author: Mohammad Ebrahim Ramazankhani
+Author URI: http://www.iranoweb.ir
+Description: IRANOMAG is a blog/magazine WordPress theme designed by _S with Twitter Bootstrap 3 framework. It's fully responsive, that means it's fully functional on any screen sizes. IRANOMAG supports Visual Composer the WordPress Best page builder and has a couple widgets for it. IRANOMAG also has 4 widgets for WordPress, 2 for display latest and most viewed posts and 2 for display advertisements in sidebars with 2 different sizes.
+Version: 1.0.0
+License: IranoWeb (Mohammad Ebrahim Ramazankhani)
+Template: iranomag
+*/
+
+@import url("../iranomag/style.css");
