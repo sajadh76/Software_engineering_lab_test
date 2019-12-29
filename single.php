@@ -148,7 +148,5 @@ if (esc_html(ot_get_option('related_posts')) == 'on') : ?>
 get_footer();
 
 /*
-* IranoMag 2 Designed by Mohammad Ebrahim Ramazankhani (Ebiram), IranoWeb.ir
-* ایرانومگ 2 بوسیله محمد ابراهیم رمضانخانی (Ebiram), در ایرانووب.ir طراحی شده است.
-* فروش و پشتیبانی تنها در مارکت وردپرس
+* 3micolon official website
 */
