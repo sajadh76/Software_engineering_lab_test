@@ -30,7 +30,5 @@ require get_template_directory() . '/inc/plugins/plg-ads.php';
 require get_template_directory() . '/inc/plugins/plg-multiads.php';
 require get_template_directory() . '/inc/plugins/plg-video.php';
 /*
-* IranoMag 2 Designed by Mohammad Ebrahim Ramazankhani (Ebiram), IranoWeb.ir
-* ایرانومگ 2 بوسیله محمد ابراهیم رمضانخانی (Ebiram), در ایرانووب.ir طراحی شده است.
-* فروش و پشتیبانی تنها در مارکت وردپرس
+* 3micolon official website
 */
