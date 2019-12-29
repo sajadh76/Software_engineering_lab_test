@@ -30,10 +30,7 @@
 
 <?php get_template_part( 'template-parts/footer/footer' );
 /*
-* IranoMag 2 Designed by Mohammad Ebrahim Ramazankhani (Ebiram), IranoWeb.ir
-* ایرانومگ 2 بوسیله محمد ابراهیم رمضانخانی (Ebiram), در ایرانووب.ir طراحی شده است.
-* فروش و پشتیبانی تنها در مارکت وردپرس
-*/
+* 3micolon official website
 ?>
 
 <?php wp_footer(); ?>
