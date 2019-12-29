@@ -2,7 +2,6 @@
 /**
  * The main template file.
  *
- * @package iranomag
  */
 
 $status = ot_get_option('grid_status');
@@ -51,9 +50,7 @@ get_header(); ?>
 							'mid_size'				=> 2
 						));
 						/*
-						* IranoMag 2 Designed by Mohammad Ebrahim Ramazankhani (Ebiram), IranoWeb.ir
-						* ایرانومگ 2 بوسیله محمد ابراهیم رمضانخانی (Ebiram), در ایرانووب.ir طراحی شده است.
-						* فروش و پشتیبانی تنها در مارکت وردپرس
+						* 3micolon official website
 						*/
 					?>
 				</div>
